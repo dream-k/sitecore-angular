@@ -1,0 +1,8 @@
+placeholders:
+  jss-main:
+    - componentName: Header
+      fields:
+    - componentName: ThailandCorporateProfile
+      fields:
+    - componentName: Footer
+      fields:

@@ -1,0 +1,8 @@
+placeholders:
+  jss-main:
+  - componentName: Header
+    fields:
+  - componentName: CsrGovernance
+    fields:
+  - componentName: Footer
+    fields:

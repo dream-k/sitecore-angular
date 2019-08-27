@@ -1,0 +1,406 @@
+@media (max-width: 1440px) {
+	.ourbusinessSection .scope {width: 800px; height: 800px;}
+	
+}
+@media (max-width: 1366px) {
+	.heroSlider .carousel-caption {/*width: 400px;height: 400px;*/}
+	.heroSlider .sliderText {padding: 0px;transform: scale(0.8);}
+
+	#canvasCircle {width: 410px;height: 410px;}
+
+	.innerBannerText h1 {font-size: 38px;line-height: 44px;}
+	.innerBannerText ul li a {margin-top: 15px;}
+
+	#videoModal .modal-dialog {top: 4%;}
+	
+	.ourbusinessSection .innerBannerText h1 {font-size: 33px; line-height: 1.4; background-image: none !important; padding-bottom: 0px; margin-bottom: 0px; font-weight: 300;}
+	
+	.ourStoryHero.scopeBanner .scope,
+	.joinUsHero .scope {width: 500px; height: 500px;}
+	
+	
+}
+
+@media (max-width: 1280px) {
+	header {padding: 0px;}
+	.container1080 {padding-left: 40px;	padding-right: 40px;}
+}
+
+@media (max-width: 1199px) {
+	.topnavRight a {font-size: 13px; padding: 0px 5px;}
+	.navbar-nav>li>a {letter-spacing: 2px; margin: 0px 10px;}
+	.dropdownFull h3 {font-size: 22px;}
+	.menuIcon {width: 60px;}
+	.subMenuInfo {padding-left: 70px;}
+
+	h2 {font-size: 30px; margin-bottom: 30px;}
+	h3 {font-size: 30px;}
+
+	.howWeTextInfo {padding-top: 30px;}
+	.flexboxList>li {font-size: 15px; line-height: 22px; padding: 0px 15px;}
+}
+
+@media (max-width: 1024px) {
+	.howWeTextInfo {padding-top: 65px;}
+	
+	.dateSpan .middleText2 h4 {min-width: 250px;}
+	
+
+}
+
+@media (max-width: 991px) {
+	.container1080 {padding-left: 15px;	padding-right: 15px;}
+	.howWeTextInfo {padding-top: 25px;}
+
+	h2,
+	h3 {font-size: 30px;}
+
+	.nav-pills>li>a {padding: 10px 15px;}
+
+	.imgPanel .imgPanelText {font-size: 12px;}
+
+	header {padding: 0px 5px;}
+
+	.navbar-inverse .navbar-brand {margin-top: 0px; height: auto; padding: 17px 15px;}
+
+	.flex2Box .col-6 {padding: 50px 50px;}
+
+	footer {padding: 50px 0px;}
+
+	footer h3,
+	.mainftrLinks li a {margin-bottom: 15px;}
+
+	.ftrLogo {margin: 30px 0px;}
+
+	.ftrLogo,
+	.ftrNote {text-align: center;}
+
+	.topnavRight,
+	.navbar-toggle,
+	.navbar-nav.navbar-right,
+	.navbar-collapse,
+	.mobileMenuIcon {display: none;}
+
+	.clearHeader .container {width: 100%;}
+
+	.mobileOtherMenu {padding: 15px 15px 8px; border-top: 1px #b4afa4 solid;}
+	.mobileOtherMenu>a {padding: 8px 0px !important;}
+	.mobileOtherMenu .LanguageSign>li>a {padding: 0 !important;	line-height: 35px;}
+	.mobileOtherMenu .LanguageSign>li>a:focus,
+	.mobileOtherMenu .LanguageSign>li>a:hover {background-color: #000;}
+
+	.hasChild>a>img {margin-right: 20px; width: 50px;}
+	.hasChild a {text-transform: uppercase;}
+	.activeBody #sm_menu_ham span {background-color: #614f4c;}
+	.activeBody #sm_menu_ham.open span {background-color: #fff;}
+	
+	.diversifyingSection .borderTitleBig span:after,
+	.borderTitleBig span:after {width: 600px;}
+	
+	.slgabsolutecontent {padding-left: 40px;}
+	
+	.textRow .col-xs-12{padding: 0 30px;}
+	
+	.redefiningBox .redefiningInfo {padding: 30px 15px;}
+	
+	.ourTextInfo{padding-top: 20px;}
+	
+	.ourBusinessAccordion {padding-top: 40px; padding-bottom: 40px;}
+	.ourBusinessAccordion .panel-group {padding: 0px 30px;}
+	
+	.businessTabs .roundPanel {position: relative; width: 100%; height: auto; border-radius: 0; padding: 30px; text-align: left;}
+	.businessTabs .roundPanel h5 {max-width: 100%;}
+	.businessTabs .roundPanel h5:after {left: 0; transform: translatex(0%);}
+	.businessTabs .nav.nav-pills {text-align: left;}
+	
+	.roundMainBox .featuredRound {width: 300px; height: 300px;}
+	.roundMainBox .roundRight h6 {font-size: 20px;}
+	
+	.ourPresence .zigzagBox1, 
+	.ourPresence .zigzagBox2{width: 100%; }
+	.ourPresence .zigzagInfo {padding: 20px 0px 40px;}
+	
+	.dateSpan .middleText {flex-wrap: wrap;}
+	.dateSpan .middleText h4{width: 100%; padding: 0;}
+	
+
+}
+
+@media (max-width: 840px) {
+	.navbar-inverse .navbar-nav>li>a {letter-spacing: 1px; padding: 10px;}
+
+	.topnavRight a {padding: 0px 10px;}
+
+	.howWeRow {padding: 50px 15px; margin: 0;}
+
+	h2,
+	h3 {font-size: 26px;}
+	.heroSlider .carousel .item video{ height: 100vh !important;transform: scale(1.5);}
+	
+	.rowClear {padding-left: 30px; padding-right: 30px;}
+	.rowClear .launchBoxPadding{padding-left: 0px; padding-right: 0px;}
+	
+	.flexboxList li span {max-width: 60px; margin: 0 auto 10px;}
+	.heroSlider .carousel-caption.captionRight {transform: translate(-50%, -50%); text-align: center;}
+	
+}
+
+@media (max-width: 768px) {
+/*,
+	.carousel-control.left,
+	.carousel-control.right*/
+	.mobileHide,
+	.sliderTabs {display: none;}
+
+	#bannerItem2 .scope {display: none;}
+	
+	#bannerItem7 .scope {top: auto; bottom: -5%; left: 2%; width: 740px; height: 740px;}
+	
+	.heroSlider .carousel .item video{transform: scale(2.5);}
+	
+}
+
+@media (max-width: 767px) {
+
+	.howWeTextInfo {padding-top: 0;	padding-bottom: 40px;}
+	.howWeTextInfo.text-right {text-align: left;}
+
+	.imgPanel.panelBoxOverlay_2 {margin-top: 40px;}
+
+	.navbar-inverse {text-align: center;}
+	.navbar-inverse .navbar-brand {float: none; padding: 20px 15px;}
+	.navbar-inverse .navbar-brand img {max-width: 100%;}
+
+	.roundPanel {position: relative; width: 100%; height: 100%;	border-radius: 0; padding: 40px 20px;}
+
+	.roundPanel h5 {font-size: 24px; max-width: 100%;}
+
+	.howWeRow {margin-left: -15px; margin-right: -15px;}
+	.howWeRow .imgPanel {width: 94%;}
+	.howWeRow .imgPanel.panelBoxOverlay_2 {margin-left: auto;}
+
+	.ourBusiness .nav.nav-pills {display: flex;	overflow: scroll;}
+	.ourBusiness .nav.nav-pills>li>a {white-space: nowrap;}
+
+	.newsSection {height: 94px;}
+	.newsSection .container {width: 100%;}
+	.ui-newsticker {flex-wrap: wrap; height: 45px !important; padding: 0;}
+	.newsSection .mobileShow {display: block; font-family: 'Conv_Whitney-Medium-Pro', sans-serif; font-size: 14px; text-transform: uppercase; font-weight: normal; letter-spacing: 2px;}
+
+	.ui-newsticker strong {display: none; width: 100%; flex: 0 0 100%;}
+	.ui-newsticker-list {flex: 0 0 100%; padding-left: 0; margin: 0; position: relative;}
+	.ui-newsticker-list li {position: relative;	white-space: normal; padding-right: 80px; height: 45px;	margin-bottom: 10px; line-height: 1.5;}
+
+	a.viewAll {float: none;	position: absolute;	top: 0;	right: 0; padding-right: 15px; font-size: 12px; background-size: 8px;}
+
+	.gryBg {padding: 50px 0px;}
+
+	.flex2Box {padding: 0px 30px;}
+	.flex2Box .col-6 {margin-top: 20px; padding: 50px 30px;	}
+
+	footer {padding: 80px 0px 40px;}
+
+	.contactUsWrap {width: 100%; max-width: 240px; margin: 0 auto; float: none; text-align: center;}
+
+	footer h3,
+	.ftrlinks li a,
+	.mainftrLinks li a {text-align: center;}
+
+	.mainftrLinks {margin: 20px 0px;}
+
+	.ourBusiness {padding-top: 70px;}
+
+	.breadcrumb>li+li:before {padding: 0 10px;}
+	
+	.centerCaption .innerBannerText h1,
+	.innerBannerText h1 {font-size: 28px; line-height: 34px;}
+
+	.innerBannerText ul li a {margin-top: 10px;}
+
+	h2,
+	h3 {font-size: 22px;}
+
+	.panelBoxOverlay_1 .imgPanelText {right: -30px;	bottom: -30px;}
+	.panelBoxOverlay_2 .imgPanelText {left: -30px; top: -30px;}
+
+	.row.plr-15 {padding-left: 0px;}
+
+	.howWeRow.flexRow2 .imgPanel{width: 100%;}
+	
+	.diversifyingSection .borderTitleBig span:after,
+	.borderTitleBig span:after {width: 100%;}
+	.slgDetailbanText h1{font-size: 30px; line-height: 1.2;}
+	
+	.slgabsolutecontent{padding: 0px 20px 40px; }
+	.slgabsoluteimg{min-height: 350px;}
+	.imgPanel2.panelBoxOverlay_2 {margin-top: 0px; margin-bottom: 30px;}
+	.ourBusiness .marginBottom30 {margin-bottom: 20px;}
+	
+	.parasection2 h4{font-size: 20px; margin-bottom: 0; line-height: 1.2;}
+	.textRow .col-xs-12 {padding: 0 15px;}
+	
+	.rowClear {padding-left: 0px; padding-right: 0px; margin: 0;}
+	.rowClear .launchBoxPadding{padding-left: 0px; padding-right: 0px;}
+	
+	.ourTextInfo h3 {font-size: 22px;}
+	.sliderImgBox {height: 250px;}
+	.businessTabs .roundPanel {padding: 30px 20px;}
+	
+	.ourbusinessSection .innerBannerText h1 {font-size: 24px; line-height: 1.2;}
+	
+	.ourBusinessAccordion .panel-title>a {font-size: 20px;}
+	.glyphicon01 {width: 20px; height: 20px; background-size: contain;}
+	.ourBusinessAccordion .panel-group {padding: 0px 10px;}
+	.ourBusinessAccordion .panel-heading {padding: 0px 15px;}
+	.ourTitleSectioin {padding: 0px 30px 40px;}
+	.ourbusinessSection .scope {width: 600px; height: 600px;}
+	.ourTitleSectioin h3 {font-size: 28px;}
+	
+	.imgPanelBG{min-height: 350px; margin-top: 30px;}
+	.roundMainBox .featuredRound{margin: 35px 15px;}
+	
+	.carousel-control {width: 50px;}
+	
+	.heroSlider .carousel .item video {transform: scale(3);}
+	
+	.mobileCaption{position: relative; padding: 0; text-align: left;}
+	.mobileCaption .innerBannerText{position: absolute; bottom: 0; padding: 30px 25px 80px; width: 100%; background: #fff;}
+	.mobileCaption .innerBannerText .subTitle,
+	.mobileCaption .innerBannerText h1 {color: #5e514d;}
+	.mobileCaption .innerBannerText h1 {font-size: 35px !important;}
+	.mobileCaption .innerBannerText h1 br{display: none;}
+	 
+	.mobileBreadcrum .container{padding: 0;}
+	.mobileBreadcrum .breadcrumb>li>a span{display: none; position: relative;}
+	.mobileBreadcrum .breadcrumb>li>a {position: relative;}
+	.mobileBreadcrum .breadcrumb>li>a:before{position: relative; content: '...'; }
+	.mobileBreadcrum .breadcrumb {padding: 12px 15px;}
+	
+	.mobileOnly{display: block;}
+	.investorHero .scopeCenter{left: 50%; top: auto; bottom: -10%; width: 700px; height: 700px; margin-left: -350px;}
+	
+	.dateSpan>li{flex-wrap: wrap;}
+	.dateSpan .middleText {width: 85%;}
+	
+	.navTabs {justify-content: flex-start; width: 100%; overflow-y: scroll; padding-bottom: 5px;}
+	
+	.panel-title>a .glyphicon01 {min-width: 24px; min-height: 24px; margin-right: 15px;}
+	
+	.noticesBody>li>span {margin-bottom: 10px;}
+	
+	.csrImgBoxSection {padding-bottom: 0;}
+	.csrImgBox{padding: 0;}
+	.csrImgBox .deskImg{display: none; width: 100%}
+	.csrImgBox img{width: 100%}
+	
+	.colfull767{width: 100%;}
+
+	.investor-relation{
+		display: block !important;
+	}
+}
+
+@media (max-width: 640px) {
+	.flex2Box .col-6 {flex: 0 0 100%;margin: 0;	}
+	.flex2Box {padding: 0px 20px;}
+	.flex2Box .imgBgBox {min-height: 300px;	background-size: cover !important;}
+
+	.imgBgBox.col-sm-push-6 {margin-top: 30px}
+
+	.brandLogo {height: 35px;}
+
+	h2.borderTitle span {width: 100%; display: block;}
+	
+	.flex2Box .col-6 {padding: 30px 20px;}	
+	
+}
+
+@media (max-width: 575px) {
+	.dateSpan .middleText {width: 76%;}
+	.selectBox.max375 {max-width: 270px;}
+	
+	.dateSpan .middleText h4,
+	.dateSpan .middleText p {font-size: 17px;}
+	.contactRow h5 {font-size: 20px;}
+	.contactRow p {font-size: 15px;}
+	.tabContent2 .borderTitle4 {font-size: 20px;}
+	.borderTitle4 {font-size: 20px;}
+
+	
+}
+@media (max-width: 480px) {
+	.featuredRound {width: 310px;height: 310px;padding: 55px 30px;}
+	.featuredRound h5 {font-size: 20px;}
+
+	.sliderImgBox {height: 300px;}
+
+	.heroSlider .carousel-caption {width: 300px;height: 300px;}
+
+	.heroSlider .carousel-indicators {width: 300px;}
+	.heroSlider .sliderText {transform: scale(0.7);}
+	.heroSlider .sliderText h3 {font-size: 36px;}
+	.heroSlider .sliderText h5 {font-size: 18px;line-height: 1.2;}
+	.heroSlider .sliderText a {padding: 0px 20px;line-height: 45px;min-width: auto;margin-top: 5px;letter-spacing: 1px;}
+	.heroSlider .carousel-indicators li {width: 12px;height: 12px;}
+	.heroSlider .sliderText p {line-height: 1.3;}
+
+	#canvasCircle {width: 310px;height: 310px;}
+
+	.featuredRound h5 {font-size: 18px;}
+	
+	.flexboxList3Box>li,
+	.flexboxList>li {width: 100%;padding-bottom: 20px}
+	.flexboxList>li:after {width: 100%;height: 1px;top: 100%;}
+
+	h2.borderTitle>span br {display: none;}
+
+	.breadcrumb>li,
+	.breadcrumb>li>a {font-size: 12px;letter-spacing: 1px;}
+	
+	.centerCaption .innerBannerText h1,
+	.slgDetailbanText h1{font-size: 26px; line-height: 1.2;}
+	.slgDetailbanText h1 br{display: none;}
+	.breadcrumb {padding: 12px 10px;}
+	
+	.launchRow h5{font-size: 20px;}
+	
+	.redefiningInfo h6 {font-size: 20px;}
+	.ourBusinessAccordion .panel-group {padding: 0px;}
+	
+	.roundMainBox {background: #fff;}
+	.btnGroup .btn2+.btn2 {margin-left: 0;}
+	.roundMainBox .bgHolder {width: 100%; position: relative; height: 250px;}
+	.roundMainBox .featuredRound {width: 100%; height: auto;float: none; margin: 0 auto !important; border-radius: 0; padding: 40px 20px;}
+	
+	.zigzagInfo h5 {font-size: 20px;}
+	.careerList li p {margin-left: 10px;}
+	
+	.selectBox.max375 {max-width: 180px;}
+	
+	.investorHero .scopeCenter {
+		/*width: 500px; height: 500px; margin-left: -250px;*/
+	}
+	
+}
+
+@media (max-width: 375px) {
+	.overlay-content {top: 35px;}
+	.mobileMenuIcon {width: 25px;top: 15px;}
+
+	.navbar-inverse .navbar-brand {max-width: 220px;}
+
+	.overlay .closebtn {font-size: 50px;height: 40px;line-height: 24px;}
+
+	.overlay-content {padding: 0px 35px 10px;}
+
+	.mobile_menu,
+	.mobile_menu .submenu {padding: 50px 10px 0px;}
+	.breadcrumb>li+li:before {padding: 0px 5px;}
+	
+	.imgPanelBG {min-height: 250px;}
+		
+	.dateSpan .middleText {width: 100%; padding-right: 0;}
+	.dateSpan .rightLinks {margin-left: 0;}
+	.selectBox.max375 {max-width: 130px;}
+
+}

@@ -1,0 +1,8 @@
+placeholders:
+  jss-main:
+    - componentName: Header
+      fields:
+    - componentName: MalaysiaPublicDisclosures
+      fields:
+    - componentName: Footer
+      fields:

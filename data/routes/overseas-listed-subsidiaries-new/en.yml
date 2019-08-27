@@ -1,0 +1,9 @@
+
+placeholders:
+  jss-main:
+    - componentName: Header
+      fields:
+    - componentName: OverseasListedSubsidiariesNew
+      fields:
+    - componentName: Footer
+      fields:

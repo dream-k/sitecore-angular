@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 71.5 81.4" enable-background="new 0 0 71.5 81.4" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="71.5" height="81.4"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="45.3" y1="80.2" x2="25.7" y2="80"/>
+	
+		<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.7" cy="35.7" r="34.5"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.6" y1="44.4" x2="24.6" y2="74"/>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="25" cy="32.9" rx="6.3" ry="10.4"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="46.1" y1="25.2" x2="46.1" y2="74"/>
+	
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.3,23.6V37c0,0,0.9,5.4,6.2,5.4c5.2,0,6-5.4,6-5.4V23.5"/>
+</g>
+</svg>

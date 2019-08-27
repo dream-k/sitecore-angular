@@ -1,0 +1,8 @@
+placeholders:
+  jss-main:
+    - componentName: Header
+      fields:
+    - componentName: OtherInformation
+      fields:
+    - componentName: Footer
+      fields:

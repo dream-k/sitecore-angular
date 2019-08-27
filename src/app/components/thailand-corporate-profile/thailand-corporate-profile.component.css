@@ -1,0 +1,3 @@
+.flexboxList>li:after{
+    display: none;
+}

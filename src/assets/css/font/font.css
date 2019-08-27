@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'PublicoHeadline-Bold';
+  src: url('PublicoHeadline-Bold.eot');
+  src: url('PublicoHeadline-Bold.eot?#iefix') format('embedded-opentype'),
+       url('PublicoHeadline-Bold.svg#PublicoHeadline-Bold') format('svg'),
+       url('PublicoHeadline-Bold.ttf') format('truetype'),
+       url('PublicoHeadline-Bold.woff') format('woff'),
+       url('PublicoHeadline-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
